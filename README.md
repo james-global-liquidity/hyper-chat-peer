@@ -1,12 +1,12 @@
-# OCI/P Client
+# HyperChat Peer
 
 ## Prerequisites:
  * [NodeJS](https://nodejs.org/) >= 12.1
- * [VSCode](https://code.visualstudio.com/) (ideally), or VS2017
+ * [VSCode](https://code.visualstudio.com/) (ideally), or VS2019
 
 ## Getting Started:
 ###### 1. Clone the repository from GitHub.  
-https://github.com/globalliquidity/glsg-sample.git
+https://github.com/james-global-liquidity/hyper-chat-peer.git
 ###### 2. Install packages.  
 ###### 1) Using NPM
 Please run `npm install`.
